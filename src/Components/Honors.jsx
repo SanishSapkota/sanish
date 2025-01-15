@@ -33,7 +33,7 @@ const Honors = () => {
           Among the 5 lakh students appearing for the SEE (Class 10) Board examination, only 42 students around Nepal, and two students from Chitwan secured perfect 4.0 GPA. I was one of them.          </p>
           <div className="class-info stylish-font">
             <p>Class 10</p>
-            <p>Valmiki Siksha Sadan</p>
+            <p>Valmiki Shiksha Sadan</p>
         <div style={{ marginLeft: 'auto' }}>
       <img
         src={biramar}
