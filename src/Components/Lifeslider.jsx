@@ -6,7 +6,7 @@ import PrimaryEducation from '../assets/images/new vision.png';
 import Highschool from '../assets/images/valmikislider.png';
 import BYC from '../assets/images/byc.png'
 
-import FirstWebsite from '../assets/images/firstwebsite.jpg'
+import FirstWebsite from '../assets/images/firstwebsite.png'
 import Guitar from '../assets/images/guitar.jpg'
 import Astrology from '../assets/images/JHora.jpg'
 import TTclub from '../assets/images/TTclub.jpg'
