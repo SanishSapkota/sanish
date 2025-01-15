@@ -158,7 +158,7 @@ const Lifeslider = () => {
     {
       Image: gradaution,
       Title: 'Graduation',
-      Description: 'Thank you Valmiki Siksha Sadan!',
+      Description: 'Thank you Valmiki Shiksha Sadan!',
       Date: "August 2, 2024",
       Extra:"Graduation from high scool ",
     },
