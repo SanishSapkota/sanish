@@ -120,10 +120,10 @@ const Lifeslider = () => {
     {
       Image: Highschool,
       Title: 'High School',
-      Description: 'Valmiki Siksha Sadan',
+      Description: 'Valmiki Shiksha Sadan',
       Date: '2020-2024',
       Extra:
-        'Can Never Thank Valmiki Siksha Sadan. The opportunities it provided me - from the internship to the exposure, i am always indebt of this valuable institution',
+        'Can Never Thank Valmiki Shiksha Sadan. The opportunities it provided me - from the internship to the exposure, i am always indebt of this valuable institution',
     },
     {
       Image: FirstWebsite,
